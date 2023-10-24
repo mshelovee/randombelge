@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\random kaldı geçti -96\random kaldı geçti -96\bin\Debug\random kaldı geçti -96.exe.config
+C:\Users\User\source\repos\random kaldı geçti -96\random kaldı geçti -96\bin\Debug\random kaldı geçti -96.exe
+C:\Users\User\source\repos\random kaldı geçti -96\random kaldı geçti -96\bin\Debug\random kaldı geçti -96.pdb
+C:\Users\User\source\repos\random kaldı geçti -96\random kaldı geçti -96\obj\Debug\random kaldı geçti -96.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\random kaldı geçti -96\random kaldı geçti -96\obj\Debug\random kaldı geçti -96.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\random kaldı geçti -96\random kaldı geçti -96\obj\Debug\random_kaldı_geçti__96.Form1.resources
+C:\Users\User\source\repos\random kaldı geçti -96\random kaldı geçti -96\obj\Debug\random_kaldı_geçti__96.Properties.Resources.resources
+C:\Users\User\source\repos\random kaldı geçti -96\random kaldı geçti -96\obj\Debug\random kaldı geçti -96.csproj.GenerateResource.cache
+C:\Users\User\source\repos\random kaldı geçti -96\random kaldı geçti -96\obj\Debug\random kaldı geçti -96.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\random kaldı geçti -96\random kaldı geçti -96\obj\Debug\random kaldı geçti -96.exe
+C:\Users\User\source\repos\random kaldı geçti -96\random kaldı geçti -96\obj\Debug\random kaldı geçti -96.pdb
