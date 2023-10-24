@@ -39,7 +39,7 @@ namespace random_kaldı_geçti__96
                 {
                     kaldi++;
                 }
-                else if (puan >= 50 && puan < 69)
+                else if (puan >= 50 && puan < 70)
                 {
                     duz++;
                 }
