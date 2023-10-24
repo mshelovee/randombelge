@@ -31,7 +31,7 @@ namespace random_kaldı_geçti__96
 
         private void btnKontrol_Click(object sender, EventArgs e)
         {
-            int kaldi = 0, duz = 0, tesekkur = 0, takdir = 0;
+            int kaldi = 0, duz = 0, tesekkur = 0, taktir = 0;
             for (int i = 0; i < lbNotlar.Items.Count; i++)
             {
                 int puan = Convert.ToInt32(lbNotlar.Items[i]);
@@ -49,7 +49,7 @@ namespace random_kaldı_geçti__96
                 }
                 else
                 {
-                    takdir++;
+                    taktir++;
                 }
                 lblKaldi.Text = " Kalan öğrenci sayısı: " + Convert.ToString(kaldi);
                 lblDuz.Text = "Düz geçen öğrenci sayısı: " + Convert.ToString(duz);
